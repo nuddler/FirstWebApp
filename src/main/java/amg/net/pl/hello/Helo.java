@@ -29,6 +29,10 @@ public class Helo extends HttpServlet {
 		// TODO Auto-generated method stub
 		PrintWriter out=response.getWriter();
 		out.println("Hello");
+		out.println("Hello");
+		out.println("Hello");
+		out.println("Hello");
+		out.println("Hello");
 	}
 
 	/**
